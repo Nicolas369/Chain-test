@@ -14,7 +14,7 @@ git clone https://github.com/Nicolas369/Chainstack-test-task.git
 cd Chainstack-test-task
 npm install
 ````
-Once this is done, create an .env file and save the address of your node in the variable ETHEREUM_NODE_WSS_URL
+Once this is done, create an `.env` file and save the address of your node in the variable `ETHEREUM_NODE_WSS_URL`
 
 Then on separate consoles, individually run the commands:
 ````

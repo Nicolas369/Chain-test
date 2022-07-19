@@ -1,5 +1,5 @@
 # Made by Nicolas Gabrenas
-## Chainstack-test-task
+## Chain-test
 
 This is a test project.
 retrieves pending transactions from the EVM mempool and displays them to the user on the console.
